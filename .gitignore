@@ -1,2 +1,12 @@
 /part1
 /part01/practice
+/part02/practice
+/part03/practice
+.gitignore
+
+part01/phonebook/node_modules
+part02/phonebook/node_modules
+part03/phonebook/node_modules
+part03/phonebook/.env
+part03/phonebook/mongo.js
+part03/phonebook/.gitignore
